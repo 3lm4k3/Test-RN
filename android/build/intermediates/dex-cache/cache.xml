@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\bahaa\WebstormProjects\Native\myScreens\android\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6d1ec41711157f356f6b89c700d00600dc5ecc34">
+        <dex dex="C:\Users\bahaa\WebstormProjects\Native\myScreens\android\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_6777202a31ad802deef99554704c5724d3a51b7f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\bahaa\.android\build-cache\9b1082ae1ae2fed1160ca6889abc50e9c05d4c39\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="C:\Users\bahaa\WebstormProjects\Native\myScreens\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fb6d89f72d826114f8b54497115d44fa9e246d05\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\bahaa\.android\build-cache\f9a66d8fdb92325228316de384d82c53a7ffc311\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\bahaa\WebstormProjects\Native\myScreens\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_033d9a12fe5991ca175ebf0344dcf9ac27cabc72\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\bahaa\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="C:\Users\bahaa\WebstormProjects\Native\myScreens\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\javax.inject-1_238cc23fde922e28c0d67d02f3dcd61a0df54139\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\bahaa\.android\build-cache\a6e08890450641e2e6d31017fbd42af5fde80039\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="C:\Users\bahaa\WebstormProjects\Native\myScreens\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_09d0804d7dcd28c353b52cab59ab473803d170b3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\bahaa\.android\build-cache\489600cae3786c4f33be37df69dcdd2161f828cf\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="C:\Users\bahaa\WebstormProjects\Native\myScreens\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e4795b3208e87542b90c3344a0639d4ad1989143\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\bahaa\.android\build-cache\b7bc4ee092ff6cf976dab9cd028378dbe507ecaa\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="71af915b7f4f7ec0b5f768b365145bb6a5cb9a66">
+        <dex dex="C:\Users\bahaa\WebstormProjects\Native\myScreens\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_83f12106bfb6ce8dd7374ac526535ba82dd991a2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\bahaa\.android\build-cache\769accc477daf9f2cde49ef9ae3d7ba5d90bc579\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="681eeeaec5300e5257ad9bf889c3859ba3833d5a">
+        <dex dex="C:\Users\bahaa\WebstormProjects\Native\myScreens\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_02079685c8557091a4969c485f6f0e1e665e11f2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\bahaa\.android\build-cache\9e7cc727ae2dfc4b4bcfc1b341597246a38cebcf\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="C:\Users\bahaa\WebstormProjects\Native\myScreens\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d80797d435667446d4c7fe17e41f429a2c0cc2a9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\bahaa\WebstormProjects\Native\myScreens\android\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\bahaa\WebstormProjects\Native\myScreens\android\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_554ee53c2ab1c9b2344eb9ce819658abc035708f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\bahaa\.android\build-cache\ec79ff9672f2f72ea2f6646bec08de08920bac0d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="dff4d8f88fe2c0e57306e6981fd9b90caeead7e3">
+        <dex dex="C:\Users\bahaa\WebstormProjects\Native\myScreens\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_99a1d982b414779bbd08d7c048d3da3a8f07f093\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\bahaa\.android\build-cache\733834217b3b60facea004771819bcf0be51ada1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="af61eb11ffb4296cab0c93218248a3dfcec0a84c">
+        <dex dex="C:\Users\bahaa\WebstormProjects\Native\myScreens\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_07c66fdd0175ab68837fdb9b1137b6ee74b04cac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\bahaa\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.0.1\e1bb32b12b25e2f78e6786059ca7ea878f8345e0\support-annotations-26.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e1bb32b12b25e2f78e6786059ca7ea878f8345e0">
+        <dex dex="C:\Users\bahaa\WebstormProjects\Native\myScreens\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.0.1_1f6fa683dfc72913455b222dd16fd0df7c004b36\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\bahaa\.android\build-cache\cf4f466f365acac51d88b1d205c4982858df7c82\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="083e7bc5a9d9404b49b8f34e5091532361fa28e6">
+        <dex dex="C:\Users\bahaa\WebstormProjects\Native\myScreens\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7ebfb885d6b06df859d96cd27468f1fd878032ce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\bahaa\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\bahaa\WebstormProjects\Native\myScreens\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-tasks-1.4.0_1a1b48981f93ddcd685bb1f5ce0aead9515dbcbf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\bahaa\.android\build-cache\3fd015769f7666a86efd1d7cb404b8d50877f39f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d095503f29a8dedc55b9326ed97a5902a1527ab9">
+        <dex dex="C:\Users\bahaa\WebstormProjects\Native\myScreens\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2d68c3d7eb16f2ed197163ab646c11300274566d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\bahaa\.android\build-cache\87e352a5651e596a74afa1b5adff063e39635c59\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="C:\Users\bahaa\WebstormProjects\Native\myScreens\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_74d143a77a6acb11c1b4e27c3d2325f23e3c950c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\bahaa\.android\build-cache\9c514557479a8fc077c2bb37568cfa119e5c149d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\bahaa\WebstormProjects\Native\myScreens\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4a46b75b2595bfea1d8be82fb1f95758012fd49f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\bahaa\.android\build-cache\47375a670154d2d7c04d9f4c3ebfa3634d1d8d94\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="C:\Users\bahaa\WebstormProjects\Native\myScreens\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_106de979887caaee594d21261d49bc42731a8761\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\bahaa\.android\build-cache\b8bce68fb295d01f72ea4b2de0603a7b9356606d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\bahaa\WebstormProjects\Native\myScreens\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6ade40bf0538939634e0580ebc3d86b772be934d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\bahaa\.android\build-cache\3e0242cb9818e50d418b8386ae47d97b27272cb9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="22c673e65215e0764add61e3102946de895439e4">
+        <dex dex="C:\Users\bahaa\WebstormProjects\Native\myScreens\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_34c2dd75250ab757a0ceb4617873490419d94ec4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\bahaa\.android\build-cache\87262c064a8ab7efedc5f95772823bfaa09f1f4b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="C:\Users\bahaa\WebstormProjects\Native\myScreens\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_eb19aa34d58cb12d42c74e8f70aea82039dc676d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\bahaa\.android\build-cache\733834217b3b60facea004771819bcf0be51ada1\output\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="C:\Users\bahaa\WebstormProjects\Native\myScreens\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\infer-annotations-4.0_bcc4a178683d2d76709e2f4878caca3b080a7d7c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\bahaa\WebstormProjects\Native\myScreens - Copy\android\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7fa8ebbb2d84c53bce977782a803f58bcf58bd0d">
+        <dex dex="C:\Users\bahaa\WebstormProjects\Native\myScreens - Copy\android\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_df3f9c05597964cb5f6e31c022ce22082d08140a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\bahaa\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="C:\Users\bahaa\WebstormProjects\Native\myScreens\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.6.0_d42927a3ad25e4e3f44f977fcf749b8638dad40d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\bahaa\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.6.0\3f9b16b774f2c36cfd86dd2053d0b3059531dacc\okhttp-urlconnection-3.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="C:\Users\bahaa\WebstormProjects\Native\myScreens\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-urlconnection-3.6.0_8235b49661c8017dbbbc9eae8b24c8c961e30ebc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\bahaa\WebstormProjects\Native\myScreens - Copy\android\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\bahaa\WebstormProjects\Native\myScreens - Copy\android\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_026ad4ade3aae4c47bd2287eeeef2b99745889f6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\bahaa\.android\build-cache\5695e495958fdefb8a0e05fd025cf0e52d85a834\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e7424f816f538c2acfba6169b25e297ea22afbd8">
+        <dex dex="C:\Users\bahaa\WebstormProjects\Native\myScreens\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ce0249d07aa6725b9384da810bfc1247764696b4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\bahaa\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="C:\Users\bahaa\WebstormProjects\Native\myScreens\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.13.0_bbb9fc9e0f6c396491eb509d0542207efac8b285\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\bahaa\.android\build-cache\6adc08c10f555db0d81bd63fd1bb1933a18a1560\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\bahaa\WebstormProjects\Native\myScreens\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_82a3a688327239cb7e2e67fb040c9d16e3fbab1d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\bahaa\WebstormProjects\Native\myScreens\android\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5de011a46f99e86cdba19ec5fd264fba0a7ae03e">
+        <dex dex="C:\Users\bahaa\WebstormProjects\Native\myScreens\android\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_6777202a31ad802deef99554704c5724d3a51b7f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\bahaa\.android\build-cache\4ddc193565d0f85b312b6ea29538d53ddfd3133c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a4590fa7eadce322ca893129fdc999074e1aa5bf">
+        <dex dex="C:\Users\bahaa\WebstormProjects\Native\myScreens\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7c39f75ddd5e755c9b47e4998a7d59daae843283\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\bahaa\WebstormProjects\Native\myScreens\android\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\bahaa\WebstormProjects\Native\myScreens\android\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_554ee53c2ab1c9b2344eb9ce819658abc035708f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\bahaa\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="C:\Users\bahaa\WebstormProjects\Native\myScreens\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\jsr305-3.0.0_46f03f50c5c7312aba96ba5565c8a9b18d1f94fe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\bahaa\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="C:\Users\bahaa\WebstormProjects\Native\myScreens\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\staticlayout-proxy-1.0_33bb4d18f0253232663c10c7ac64ac67ff91bfbd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\bahaa\.android\build-cache\733834217b3b60facea004771819bcf0be51ada1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="af61eb11ffb4296cab0c93218248a3dfcec0a84c">
+        <dex dex="C:\Users\bahaa\WebstormProjects\Native\myScreens\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_07c66fdd0175ab68837fdb9b1137b6ee74b04cac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\bahaa\.android\build-cache\ea9760ad4b30fd8b394be38b7d3b84cad394fdd5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="C:\Users\bahaa\WebstormProjects\Native\myScreens\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2bab4fbf43b0ac152c9268e6f0102a67a45ec791\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\bahaa\.android\build-cache\733834217b3b60facea004771819bcf0be51ada1\output\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="C:\Users\bahaa\WebstormProjects\Native\myScreens\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\infer-annotations-4.0_bcc4a178683d2d76709e2f4878caca3b080a7d7c\classes.dex" />
+    </item>
+
+</items>

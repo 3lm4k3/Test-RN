@@ -1,0 +1,25 @@
+dependencies: \
+  /Users/abdelrhman/Desktop/ios/mawkaaTest/node_modules/react-native/React/Executors/RCTJSCExecutor.mm \
+  /Users/abdelrhman/Desktop/ios/mawkaaTest/node_modules/react-native/React/Executors/RCTJSCExecutor.h \
+  /Users/abdelrhman/Desktop/ios/mawkaaTest/node_modules/react-native/React/Base/RCTJavaScriptExecutor.h \
+  /Users/abdelrhman/Desktop/ios/mawkaaTest/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/abdelrhman/Desktop/ios/mawkaaTest/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/abdelrhman/Desktop/ios/mawkaaTest/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/abdelrhman/Desktop/ios/mawkaaTest/ios/build/Build/Products/Debug-iphonesimulator/include/cxxreact/JSBundleType.h \
+  /Users/abdelrhman/Desktop/ios/mawkaaTest/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
+  /Users/abdelrhman/Desktop/ios/mawkaaTest/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
+  /Users/abdelrhman/Desktop/ios/mawkaaTest/node_modules/react-native/React/Modules/JSCSamplingProfiler.h \
+  /Users/abdelrhman/Desktop/ios/mawkaaTest/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/abdelrhman/Desktop/ios/mawkaaTest/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/abdelrhman/Desktop/ios/mawkaaTest/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/abdelrhman/Desktop/ios/mawkaaTest/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/abdelrhman/Desktop/ios/mawkaaTest/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/abdelrhman/Desktop/ios/mawkaaTest/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/abdelrhman/Desktop/ios/mawkaaTest/node_modules/react-native/React/Modules/RCTDevSettings.h \
+  /Users/abdelrhman/Desktop/ios/mawkaaTest/node_modules/react-native/React/Base/RCTJSCErrorHandling.h \
+  /Users/abdelrhman/Desktop/ios/mawkaaTest/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/abdelrhman/Desktop/ios/mawkaaTest/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/abdelrhman/Desktop/ios/mawkaaTest/node_modules/react-native/React/Base/RCTPerformanceLogger.h \
+  /Users/abdelrhman/Desktop/ios/mawkaaTest/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/abdelrhman/Desktop/ios/mawkaaTest/node_modules/react-native/React/Profiler/RCTJSCProfiler.h \
+  /Users/abdelrhman/Desktop/ios/mawkaaTest/node_modules/react-native/React/Modules/RCTDevMenu.h
